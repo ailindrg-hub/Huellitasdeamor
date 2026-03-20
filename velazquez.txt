@@ -1,0 +1,5 @@
+Nuestra aplicacion tiene como fin facilitar el manejo de informacion para el refugio de animales,
+en el cual se vuelve mas sencillo el proceso de poder elegir y adoptar una mascota, dando datos como su nombre, 
+edad y tamaño. 
+
+Reyna Lizeth Velazquez Leal
